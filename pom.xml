@@ -8,6 +8,11 @@
   <name>my-prose-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+    <dependency>
+      <groupId>com.example</groupId>
+      <artifactId>prose-builder</artifactId>
+      <version>1.0.0</version>
+    </dependency>
     <dependency>
         <groupId>org.junit.jupiter</groupId>
         <artifactId>junit-jupiter</artifactId>
